@@ -35,3 +35,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<h1 align="center">Hi 👋, I'm Mark Anthony Maina</h1>
+<h3 align="center">A passionate web developer based in Kenya</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcanthony98&label=Profile%20views&color=0e75b6&style=flat" alt="mcanthony98" /> </p>
+
+- 🔭 I’m currently working on **A big e-commerce web app**
+
+- 🌱 I’m currently learning **Frameworks and android development**
+
+- 👨‍💻 All of my projects are available at [https://mcanthony98.github.io/mcanthony98/](https://mcanthony98.github.io/mcanthony98/)
+
+- 💬 Ask me about **PHP,Javascript,Java,CSS**
+
+- 📫 How to reach me **mcanthony09@gmail.com**
+
+- ⚡ Fun fact **Problems were meant to be solved**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mark anthony maina gikandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mark anthony maina gikandi" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcanthony98&show_icons=true&locale=en&layout=compact" alt="mcanthony98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcanthony98&show_icons=true&locale=en" alt="mcanthony98" /></p>
