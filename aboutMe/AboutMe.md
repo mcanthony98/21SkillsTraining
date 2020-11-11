@@ -3,7 +3,9 @@
 <p>My Name is Mark Anthony Maina. I am a web developer currently living in Nairobi, Kenya. I loving coding and programming. I believe in creating solutions to problems because
 "<i><strong>problems were meant to be solved</strong></i>". </p>
 <a href="https://mcanthony98.github.io/mcanthony98/"> 👉 Click here to view my full profile</a>
-
+<hr/>
+<h2>🔭 Bio</h2>
+<p>I am a student currently pursuing Electrical and Electronics Engineering. I have graduated with a diploma in Business Information Technology at Strathmore University. I work as a web designer and developer. I'm currently working on a big E-Commerce application as a head developer.  </p>
 <hr/>
 <h2>💻 Programming Skills</h2>
 <ul>
